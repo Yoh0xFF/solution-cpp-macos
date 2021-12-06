@@ -1,0 +1,16 @@
+{
+  "code-runner.executorMap": {
+    "c": "cd $dir && gcc $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+    "cpp": "cd $dir && clang++ -std=c++20 -stdlib=libc++ -g $fileName -o program.bin && $dirprogram.bin",
+  },
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2,
+  "files.associations": {
+    "any": "cpp",
+    "__config": "cpp",
+    "functional": "cpp",
+    "queue": "cpp",
+    "stack": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "Disabled",
+}
