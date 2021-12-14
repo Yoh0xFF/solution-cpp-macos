@@ -1,5 +1,7 @@
 #include <iostream>
 #include <algorithm>
+#include <functional>
+#include <numeric>
 #include <vector>
 #include <set>
 #include <unordered_set>

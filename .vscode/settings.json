@@ -6,11 +6,19 @@
   "editor.insertSpaces": true,
   "editor.tabSize": 2,
   "files.associations": {
-    "any": "cpp",
-    "__config": "cpp",
+    "iostream": "cpp",
+    "algorithm": "cpp",
     "functional": "cpp",
+    "numeric": "cpp",
+    "vector": "cpp",
+    "set": "cpp",
+    "unordered_set": "cpp",
+    "map": "cpp",
+    "unordered_map": "cpp",
+    "stack": "cpp",
     "queue": "cpp",
-    "stack": "cpp"
+    "string": "cpp",
+    "any": "cpp",
   },
   "C_Cpp.errorSquiggles": "Disabled",
 }
