@@ -14,8 +14,20 @@
 
 using namespace std;
 
+class Solution
+{
+public:
+  string sayHello(const string &name)
+  {
+    return "Hello " + name;
+  }
+};
+
 int main(int argc, char** argv)
 {
-  cout << "Hello World" << endl;
+  Solution s;
+
+  cout << s.sayHello("World") << endl;
+
   return 0;
 }
