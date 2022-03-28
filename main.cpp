@@ -14,17 +14,14 @@
 
 using namespace std;
 
-class Solution
-{
+class Solution {
 public:
-  string sayHello(const string &name)
-  {
+  string sayHello(const string &name) {
     return "Hello " + name;
   }
 };
 
-int main(int argc, char** argv)
-{
+int main(int argc, char** argv) {
   Solution s;
 
   cout << s.sayHello("World") << endl;
