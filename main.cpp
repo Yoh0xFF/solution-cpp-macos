@@ -19,21 +19,15 @@ using namespace std;
 class Solution {
 
 private:
-  string _generateHello(const string& name) {
-    return "Hello " + name;
-  }
+  // TODO private members
 
 public:
-  string sayHello(const string& name) {
-    return _generateHello(name);
-  }
+  // TODO public members
 
 };
 
 int main(int argc, char** argv) {
   Solution s;
-
-  cout << s.sayHello("World") << endl;
 
   return 0;
 }
