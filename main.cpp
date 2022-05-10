@@ -3,6 +3,7 @@
 #include <functional>
 #include <numeric>
 #include <vector>
+#include <array>
 #include <set>
 #include <unordered_set>
 #include <map>
