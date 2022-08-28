@@ -1,19 +1,19 @@
-#include <iostream>
 #include <algorithm>
-#include <functional>
-#include <numeric>
-#include <vector>
+#include <any>
 #include <array>
-#include <set>
-#include <unordered_set>
+#include <bitset>
+#include <functional>
+#include <iostream>
 #include <map>
-#include <unordered_map>
-#include <stack>
+#include <numeric>
 #include <queue>
+#include <set>
+#include <stack>
 #include <string>
 #include <string_view>
-#include <any>
-#include <bitset>
+#include <unordered_map>
+#include <unordered_set>
+#include <vector>
 
 using namespace std;
 
@@ -24,11 +24,12 @@ private:
 
 public:
   // TODO public members
-
 };
 
-int main(int argc, char** argv) {
-  Solution s;
+int main(int argc, char **argv) {
+  Solution sln;
+
+  cout << "Hello World" << endl;
 
   return 0;
 }
