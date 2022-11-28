@@ -5,6 +5,7 @@
   },
   "editor.insertSpaces": true,
   "editor.tabSize": 2,
+  "editor.formatOnSave": false,
   "files.associations": {
     "iostream": "cpp",
     "algorithm": "cpp",

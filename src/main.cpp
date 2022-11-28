@@ -18,10 +18,6 @@
 using namespace std;
 
 class Solution {
-
-private:
-  // TODO private members
-
 public:
   // TODO public members
 };
